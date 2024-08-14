@@ -9,5 +9,9 @@ Abstract
 
 **Conclusions**: Present results suggest that severe patients younger than 55 may have a compromised TCR repertoire contributing to a worse disease outcome.
 
+<<<<<<< HEAD
 ![## Graphical Abstract](C:\Users\ferna\Documents\GitHub\Human Genomics T cell repertoire of patientsnwith COVID-19\GA.png)
+=======
+![Alt text](![image info](https://github.com/fmarinb/Human-Genomics-The-T-cell-repertoire-of-patients-with-COVID-19/blob/main/GA.png) "Graphical Abstract of the present study")
+>>>>>>> d36f3af9cac40453835ab98ae4133e998ee2569c
 
