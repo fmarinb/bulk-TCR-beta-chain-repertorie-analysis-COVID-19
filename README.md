@@ -9,5 +9,12 @@ Abstract
 
 **Conclusions**: Present results suggest that severe patients younger than 55 may have a compromised TCR repertoire contributing to a worse disease outcome.
 
-![](https://github.com/fmarinb/Human-Genomics-The-T-cell-repertoire-of-patients-with-COVID-19/blob/main/GA.png) "Graphical Abstract of the present study")
+# Graphical Abstract
+
+![](https://github.com/fmarinb/Human-Genomics-The-T-cell-repertoire-of-patients-with-COVID-19/blob/main/GA.png) 
+
+
+# Repertorie data avaliability
+
+The 173 bulk TCR-beta chain pre-processed files are stored at the European Genome Phenome Archive (EGA) upon formal request (https://ega-archive.org/datasets/EGAD50000000477).
 
