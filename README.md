@@ -1,6 +1,7 @@
 # The T-cell repertoire of Spanish patients with COVID-19 as a strategy to link T-cell characteristics to the severity of the disease
 
-Abstract
+## Abstract
+
 **Background**: The architecture and dynamics of T cell populations are critical in orchestrating the immune response to SARS-CoV-2. In our study, we used T Cell Receptor sequencing (TCRseq) to investigate TCR repertoires in 173 post-infection COVID-19 patients.
 
 **Methods**: The cohort included 98 mild and 75 severe cases with a median age of 53. We amplified and sequenced the TCR β chain Complementary Determining Region 3 (CDR3b) and performed bioinformatic analyses to assess repertoire diversity, clonality, and V/J allelic usage between age, sex and severity groups. CDR3b amino acid sequence inference was performed by clustering structural motifs and filtering validated reactive CDR3b to COVID-19.
@@ -9,12 +10,12 @@ Abstract
 
 **Conclusions**: Present results suggest that severe patients younger than 55 may have a compromised TCR repertoire contributing to a worse disease outcome.
 
-# Graphical Abstract
+## Graphical Abstract
 
 ![](https://github.com/fmarinb/Human-Genomics-The-T-cell-repertoire-of-patients-with-COVID-19/blob/main/GA.png) 
 
 
-# Repertorie data avaliability
+## Repertorie data avaliability
 
 The 173 bulk TCR-beta chain pre-processed files are stored at the European Genome Phenome Archive (EGA) upon formal request (https://ega-archive.org/datasets/EGAD50000000477).
 
