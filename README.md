@@ -9,3 +9,5 @@ Abstract
 
 **Conclusions**: Present results suggest that severe patients younger than 55 may have a compromised TCR repertoire contributing to a worse disease outcome.
 
+![Alt text](https://keep.google.com/u/0/#NOTE/1xsd0PqLpQ_uwh8-EoTP9BIyhRtvJzdYUjR-pf2ePJIzzz0oZWUmt11leRvCl2g "Graphical Abstract of the present study")
+
