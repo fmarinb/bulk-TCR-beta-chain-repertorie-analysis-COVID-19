@@ -1,4 +1,4 @@
-# Human-Genomics: The T cell repertoire of patients with COVID-19
+# The T-cell repertoire of Spanish patients with COVID-19 as a strategy to link T-cell characteristics to the severity of the disease
 
 Abstract
 **Background**: The architecture and dynamics of T cell populations are critical in orchestrating the immune response to SARS-CoV-2. In our study, we used T Cell Receptor sequencing (TCRseq) to investigate TCR repertoires in 173 post-infection COVID-19 patients.
@@ -9,5 +9,5 @@ Abstract
 
 **Conclusions**: Present results suggest that severe patients younger than 55 may have a compromised TCR repertoire contributing to a worse disease outcome.
 
-![Alt text](![image info](C:\Users\ferna\Documents\GitHub\Human Genomics T cell repertoire of patientsnwith COVID-19\GA.png) "Graphical Abstract of the present study")
+![## Graphical Abstract](C:\Users\ferna\Documents\GitHub\Human Genomics T cell repertoire of patientsnwith COVID-19\GA.png)
 
